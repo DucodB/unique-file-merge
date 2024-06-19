@@ -1,6 +1,7 @@
 # Unique File Merge
 
-Unique File Merge is a command-line tool designed to merge multiple files while ensuring that each line is unique. This utility is useful for joining sets of data written to files from multiple experiments without having to worry about ordering."
+Unique File Merge is a command-line tool designed to merge multiple files. It reads the files, stores each line sepeartely into a set to remove the duplicates and then stores the result, line by line, to a specified output file.
+This utility is useful for joining sets of data written to files from multiple experiments without having to worry about ordering.
 
 ## Usage
 
