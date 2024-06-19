@@ -9,12 +9,12 @@ To use Unique File Merge, follow these steps:
 
 
 1. **Compile the Program**: Compile `mergefiles.cpp` using a C++ compiler of choice.
-   ```bash
+   ```
    g++ mergefiles.cpp -o mergefiles
    ```
 
 3. **Run the Program**: Execute the compiled program with the desired input files.
-   ```bash
+   ```
    ./mergefiles <output_file> <input_file1> <input_file2> ... <input_fileN>
    ```
 
@@ -25,7 +25,7 @@ To use Unique File Merge, follow these steps:
 
 ## Example
 
-```bash
+```
 ./mergefiles merged_output.txt file1.txt file2.txt file3.txt
 ```
 
